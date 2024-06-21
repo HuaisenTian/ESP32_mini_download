@@ -3,9 +3,9 @@
 
 
 
-[pic1.png](https://github.com/tianhuaisen/ESP32_mini_download/blob/main/picture/board.png)
+[pic1.png](https://github.com/HuaisenTian/ESP32_mini_download/blob/main/picture/board.png)
 
 
 
-[pic2.png](https://github.com/tianhuaisen/ESP32_mini_download/blob/main/picture/pcb.png)
+[pic2.png](https://github.com/HuaisenTian/ESP32_mini_download/blob/main/picture/pcb.png)
 
