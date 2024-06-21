@@ -1,2 +1,11 @@
 # ESP32_mini_download
- mini downloader of esp32 chip
+ Mini auto downloader of esp32 chip
+
+
+
+[pic1.png](https://github.com/tianhuaisen/ESP32_mini_download/blob/main/picture/board.png)
+
+
+
+[pic2.png](https://github.com/tianhuaisen/ESP32_mini_download/blob/main/picture/pcb.png)
+
